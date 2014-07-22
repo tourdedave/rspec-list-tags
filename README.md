@@ -4,9 +4,17 @@ A demonstration of how to list the tags used in your RSpec tests.
 
 ## Usage Examples
 
-`ruby tag_lister.rb`
-`ruby tag_lister.rb 'alphabetical'`
-`ruby tag_lister.rb 'usage'`
+```sh
+tag_lister.rb
+```
+
+```sh
+tag_lister.rb 'alphabetical'
+```
+
+```sh
+tag_lister.rb 'usage'
+```
 
 It defaults to sorting by usage.
 
